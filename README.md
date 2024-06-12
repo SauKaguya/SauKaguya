@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><be>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Love+Light&size=21&pause=1000&color=F70C0C&center=true&random=false&width=435&lines=LOVE++IS++++WAR)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Love+Light&size=25&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&multiline=true&random=false&width=435&height=80&lines=LOVE++IS++++WAR;Kaguya)](https://git.io/typing-svg)
 
 
 </div>
