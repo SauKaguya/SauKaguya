@@ -10,6 +10,9 @@
 </pre>
 <br><br><be>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br><br>
+<br><br><be>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Love+Light&size=21&pause=1000&color=F70C0C&center=true&random=false&width=435&lines=LOVE++IS++++WAR)](https://git.io/typing-svg)
+
 
 </div>
